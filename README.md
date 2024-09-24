@@ -40,9 +40,11 @@ press the left arrow key for left movement.
 press the right arrow key for right movement.
 press the down arrow to Strike.
 Press Enter to start the game.
+Refresh the page if the players disappear.
 
 # Built With
 Kaboom.js - A game programming library that helps you make games fast and fun.
 JavaScript
 
 # Link
+# https://siddz415.github.io/Samurai-Fighters/
