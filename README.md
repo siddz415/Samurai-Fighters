@@ -1,7 +1,7 @@
 # Samurai-Fighters
 samurai fighters is a game where you can play as a samurai and fight other samurai. It's made with kaboom.js.
 # Screenshot
-![SamuraiFighters](samurai-fighters/assets/sam.png)
+![SamuraiFighters](samurai-fighters/www/assets/sam.png)
 
 # Features
 2D fighting game
