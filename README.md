@@ -4,8 +4,8 @@ samurai fighters is a game where you can play as a samurai and fight other samur
 ![SamuraiFighters](samurai-fighters/assets/sam.png)
 
 # Features
-2D side-scrolling game
-Simple controls: press space to jump
+2D fighting game
+Simple controls
 Built with Kaboom.js and JavaScript
 Endless gameplay
 Getting Started
