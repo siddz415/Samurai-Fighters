@@ -1,7 +1,9 @@
 kaboom({
     width: 1280,
     height: 720,
-    scale: 0.7,
+    scale: 1.0,
+    // letterbox: true,
+    stretch: true,
     debug: false
 })
 
@@ -27,6 +29,11 @@ loadSpriteAtlas("assets/oak_woods_tileset.png", {
         "height": 16
     }
 })
+// add([
+//     sprite("background", { width: width(), height: height() }),
+//     pos(0, 0),
+//     layer("background")
+// ])
 
 loadSprite("shop", "assets/shop_anim.png", {
     sliceX: 6,
