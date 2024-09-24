@@ -1,5 +1,5 @@
 # Samurai-Fighters
-samurai fighters is a game where you can play as a samurai and fight other samurai. It's made with kaboom.js.
+Samurai Fighters is an exciting 2D fighting game where players take on the roles of skilled samurai warriors. Engage in intense battles, showcase your combat skills, and emerge victorious against your opponents. The game is built using Kaboom.js, a powerful game programming library that makes game development fast and fun.
 # Screenshot
 ![SamuraiFighters](samurai-fighters/www/assets/sam.png)
 
@@ -30,8 +30,8 @@ Open your browser and navigate to the provided localhost URL (typically http://l
 
 Press the spacebar to start the game and control the bird.
 
-# Controls
-Player 1: Press the D to jump.
+# Game Controls
+Player 1: Press the W to jump.
 press the A for left movement.
 press the D for right movement.
 press the spacebar to Strike.
